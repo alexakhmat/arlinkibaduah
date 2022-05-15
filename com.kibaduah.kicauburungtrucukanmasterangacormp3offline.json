@@ -1,14 +1,13 @@
 {
 "Ads": [
 {
-     
 // NOTE
 // belum FAN DAN STARTRAPP
 // baru unity saja
      
      
 // 0 artinya tidak di redirect
-// 1 artinya di redirect
+// 1 artinya di redireffct
 "STATUS_APP" : "0",
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
 
@@ -31,20 +30,20 @@
 // unity = backup startapp
 
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_UNITY" : false,
-"PENGATURAN_IKLAN_banner" : "admob1",
-"PENGATURAN_IKLAN_inter" : "admob1",
-"INTER_COUNT" : 5,	
+"PENGATURAN_IKLAN_banner" : "admob2",
+"PENGATURAN_IKLAN_inter" : "admob2",
+"INTER_COUNT" : 10,	
 
-"ADMOB_INTER" : "ca-app-pub-7530364106237448/",
-"ADMOB_BANNER" : "ca-app-pub-7530364106237448/",
-"ADMOB_OPENADS" : "ca-app-pub-7530364106237448/",
+"ADMOB_INTER" : "ca-app-pub-",
+"ADMOB_BANNER" : "ca-app-pub-",
+"ADMOB_OPENADS" : "ca-app-pub-",
 
 "FAN_INTER" : "id fan",
 "FAN_BANNER" : "id fan",
 
-"UNITY_BANNER" : "Banner_Android",
-"UNITY_INTERSTITIAL" : "Interstitial_Android",
-"UNITY_GAME_ID" : "4183289",
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "inter",
+"UNITY_GAME_ID" : "4114625",
 
 "startappid" : "207333353",
 "enable_strap" : true,
